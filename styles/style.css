@@ -30,6 +30,18 @@ a {
 
 a:hover {
     color:  rgb(132, 14, 201);
+    transition: 0.3s all;
+}
+
+#inscreva-se-btn {
+    border: 2px solid rgb(132, 14, 201);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#inscreva-se-btn:hover {
+    background-color: rgb(132, 14, 201);
+    color: #FFF;
 }
 
 h1 {
@@ -60,4 +72,19 @@ p {
 
 img {
     width: 600px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+input {
+    margin-top: 20px;
+    height: 20px;
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    font-size: 15px;
 }

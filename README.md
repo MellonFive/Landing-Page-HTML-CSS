@@ -12,7 +12,3 @@ Irei fazer algo com JavaScript quando aprender.
 Resultado em desktop:
 
 ![desktop](components/images/desktop.png)
-
-
-Resultado responsivo (max-width: 760px):
-

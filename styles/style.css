@@ -51,7 +51,8 @@ h1 {
 main {
     display: flex;
     flex-direction: row;
-    margin-top: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 h2 {

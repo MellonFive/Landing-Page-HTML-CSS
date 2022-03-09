@@ -1,5 +1,5 @@
-# Criando uma Landing Page
-## link do vídeo: https://www.youtube.com/watch?v=edDCEK5QWE8
+<h1 align="center">Criando uma Landing Page</h1>
+<h2 align="center">link do vídeo: https://www.youtube.com/watch?v=edDCEK5QWE8</h2>
 
 
 ### Tecnologias usadas

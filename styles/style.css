@@ -101,3 +101,11 @@ input {
     border: none;
     font-size: 15px;
 }
+
+footer {
+    text-align: center;
+}
+
+.social-media {
+    width: 70px;
+}

@@ -103,9 +103,25 @@ input {
 }
 
 footer {
-    text-align: center;
+    box-sizing: border-box;
+}
+
+footer .ul-social-media {
+    display: flex;
+    justify-content: center;
+    margin-top: -1rem;
+}
+
+footer .ul-social-media li {
+    margin: 0 10rem;
 }
 
 .social-media {
-    width: 100px;
+    width: 3rem;
+    transition: .1s;
+}
+
+.social-media:hover {
+    width: 3.5rem;
+    transform: scale(1.4);
 }
